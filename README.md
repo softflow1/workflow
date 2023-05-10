@@ -1,8 +1,8 @@
-Acticiti7工作流引擎
+工作流管理软件
 ===============
 # 项目介绍
 
-基于[Acticiti7](https://github.com/Activiti/Activiti)的Web工作流引擎。
+基于[Acticiti7](https://github.com/Activiti/Activiti)的Web工作流管理软件。
 
 前端基于layuimini，[在github找到项目相关介绍](https://github.com/zhongshaofa/layuimini/releases)。
 
