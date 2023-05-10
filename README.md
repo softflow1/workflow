@@ -28,7 +28,6 @@ Acticiti7工作流引擎
  * [下载GIT](https://git-scm.com/downloads)并安装
  * 打开IDEA，【File】->【Settings】->【Version Control】->【Path to Git executable】设置为安装后的git.exe路径
  * 创建IDEA项目，【File】->【New】->【Project from Version Control】->【Git】设置URL`https://github.com/softflow1/workflow.git`
- ![Image text](./src/main/resources/static/git_show/0004.png)
 
 
 
@@ -70,8 +69,3 @@ Acticiti7工作流引擎
 * 打开浏览器输入地址localhost:8080/layuimini/page/login-1.html
 * 演示地址81.68.102.48:8080/layuimini/page/login-1.html
 
-# 效果预览
-> 总体预览
-
-
-![Image text](./src/main/resources/static/git_show/0002.gif)
