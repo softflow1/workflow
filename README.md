@@ -68,7 +68,7 @@ Acticiti7工作流引擎
 
 * 点击IDEA右上方绿色箭头Run项目（或按Shift+F10运行项目）
 * 打开浏览器输入地址localhost:8080/layuimini/page/login-1.html
-* [演示地址](81.68.102.48:8080/layuimini/page/login-1.html)
+* 演示地址81.68.102.48:8080/layuimini/page/login-1.html
 
 # 效果预览
 > 总体预览
