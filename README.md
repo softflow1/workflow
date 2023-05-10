@@ -27,7 +27,7 @@ Acticiti7工作流引擎
 
  * [下载GIT](https://git-scm.com/downloads)并安装
  * 打开IDEA，【File】->【Settings】->【Version Control】->【Path to Git executable】设置为安装后的git.exe路径
- * 创建IDEA项目，【File】->【New】->【Project from Version Control】->【Git】设置URL`https://github.com/wwdui/activiti7-workflow.git`
+ * 创建IDEA项目，【File】->【New】->【Project from Version Control】->【Git】设置URL`https://github.com/softflow1/workflow.git`
  ![Image text](./src/main/resources/static/git_show/0004.png)
 
 
@@ -49,10 +49,10 @@ Acticiti7工作流引擎
  * 保存后重新打开settings.xml确定保存成功
 
 ### 3、修改YML配置文件数据库连接
-> 没有安装过数据库的同学也不要紧张，下一章课程会带领大家安装与配置数据库
+> 本项目默认使用MySQL数据库
 
  * 打开项目文件src\main\resources\application.yml
- * datasource节点配置username、password、url为自己的数据库配置信息，本项目默认使用MySQL数据库
+ * datasource节点配置username、password、url为自己的数据库配置信息
 
 ### 4、执行user.sql创建用户表并修复Activiti7官方Bug
  * 注意：先运行一次项目，Activiti会自动初始化数据库需要的表，然后再执行下面的sql
@@ -68,6 +68,7 @@ Acticiti7工作流引擎
 
 * 点击IDEA右上方绿色箭头Run项目（或按Shift+F10运行项目）
 * 打开浏览器输入地址localhost:8080/layuimini/page/login-1.html
+* 演示地址81.68.102.48:8080/layuimini/page/login-1.html
 
 # 效果预览
 > 总体预览
